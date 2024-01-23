@@ -1,2 +1,1 @@
-Hey
-This is my first project.
+In this project, we aim to develop a predictive model for estimating medical insurance costs based on relevant features using two different regression algorithms: Linear Regression and Support Vector Regressor (SVR).
